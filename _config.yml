@@ -14,7 +14,7 @@ url: "http://kerchner.github.io/beautiful-project"
 #baseurl: ""
 
 # Name of website
-title: My Data Science Project
+title: Earthquake
 
 # Short description of your site
 description: Here's the description of my project
@@ -35,7 +35,7 @@ navbar-links:
   Example pages:
     - Example of a Markdown page: "md-example"
     - Example of an HTML page: "html-example"
-  About me: "https://www.linkedin.com/school/george-washington-university/about/"
+  About me: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
 
@@ -43,7 +43,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Your name goes here
-  email: "youremail@gmail.com"
+  email: "rmiaous@gwu.edu"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter
