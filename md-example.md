@@ -26,10 +26,13 @@ What if I just paste the HTML for a plotly plot?
 We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
 ```
 \{\% include jupyter-basic_bar.html \%\}
-\{\% include jupyter-basic_bar.html \%\}
+\{\% http://localhost:8888/notebooks/Desktop/Project_1_2_Miao.ipynb# \%\}
 http://localhost:8888/notebooks/Desktop/Project_1_2_Miao.ipynb#
 ```
 {% include jupyter-basic_bar.html %}
+{% http://localhost:8888/notebooks/Desktop/Project_1_2_Miao.ipynb# %}
+http://localhost:8888/notebooks/Desktop/Project_1_2_Miao.ipynb#
+
 
 Attempting to embed an RShiny app:
 
