@@ -28,7 +28,7 @@ description: Data Mining Project
 navbar-links:
   Home: ""
   Codes:
-    - Codes: "DM_Project2_21_Rui_Miao.ipynb"
+    - Codes: "DM_Project2_21_Rui_Miao.html"
   Diagrams:
     - Diagrams: "output_15_0.png"
   Maps: 
