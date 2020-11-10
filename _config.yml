@@ -27,12 +27,12 @@ description: Data Mining Project
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Survey Questions:
-    - Survey Questions: "new-page"
-  Survey Database:
-    - Database: "getstarted"
-  Data Analysis: 
-    - Charts and Diagrams: "md-example"
+  Charts:
+    - Charts: "new-page"
+  Diagrams:
+    - Diagrams: "getstarted"
+  Maps: 
+    - Maps: "md-example"
   About US: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
@@ -40,7 +40,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Rui Miao, Birendra Kunwar, Joseph Mangazie 
+  name: Rui Miao 
   facebook: "https://rmiaous.github.io/earthquake/"
   twitter: "https://rmiaous.github.io/earthquake/"
   email: "rmiaous@gwu.edu"
