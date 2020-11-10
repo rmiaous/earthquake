@@ -30,9 +30,9 @@ navbar-links:
   Charts:
     - Charts: "$ jupyter nbconvert --to notebook --execute DM_Project2_20_Rui_Miao.ipynb"
   Diagrams:
-    - Diagrams: "getstarted"
+    - Diagrams: ""
   Maps: 
-    - Maps: "md-example"
+    - Maps: ""
   About US: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
