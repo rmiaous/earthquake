@@ -30,9 +30,9 @@ navbar-links:
   Codes:
     - Codes: "DM_Project2_21_Rui_Miao.html"
   Diagrams:
-    - Diagrams: "DM_Project2_21_Rui_Miao.py"
+    - Diagrams: "output_16_0.png"
   Maps: 
-    - Maps: "output_16_0.png"
+    - Maps: "map.png"
   About US: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
