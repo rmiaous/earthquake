@@ -28,7 +28,7 @@ description: Data Mining Project
 navbar-links:
   Home: ""
   Charts:
-    - Charts: "new-page"
+    - Charts: "$ jupyter nbconvert --to notebook --execute DM_Project2_20_Rui_Miao.ipynb"
   Diagrams:
     - Diagrams: "getstarted"
   Maps: 
