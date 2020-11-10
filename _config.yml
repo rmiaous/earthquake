@@ -8,17 +8,16 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "https://rmiaous.github.io/earthquake/"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: Earthquake
+title: Earthquakes and Analysis 
 
 # Short description of your site
-description: Here's the description of my project
-
+description: Data Mining Project
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -28,44 +27,37 @@ description: Here's the description of my project
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
-  About me: "https://datasci.columbian.gwu.edu/"
+  Survey Questions:
+    - Survey Questions: "new-page"
+  Survey Database:
+    - Database: "getstarted"
+  Data Analysis: 
+    - Charts and Diagrams: "md-example"
+  About US: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
+  name: Rui Miao, Birendra Kunwar, Joseph Mangazie 
+  facebook: "https://rmiaous.github.io/earthquake/"
+  twitter: "https://rmiaous.github.io/earthquake/"
   email: "rmiaous@gwu.edu"
-  facebook: yourfacebook
-  github: yourgithub
-  twitter: yourtwitter
 #  linkedin: "pub/dean-attali/8/946/143"
 #  stackoverflow: "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
   facebook: true
+  twitter: true
   email: true
-  twitter: true
-  github: true
-  linkedin: false
-  stackoverflow: false
-  
+   
 share-links-active:
-  twitter: true
   facebook: true
-  google: false
-  linkedin: true
-
+  twitter: true
+  email: true
+  
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 # url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
