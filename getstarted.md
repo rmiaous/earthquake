@@ -11,7 +11,7 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
+  <a class="btn btn-success btn-lg get-started-btn" href="DM_Project2_20_Rui_Miao.ipynb">Get Started!</a>
 </div>
 <br/>
 
