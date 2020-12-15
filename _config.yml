@@ -8,13 +8,13 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://rmiaous.github.io/earthquake/"
+url: "https://rmiaous.github.io/house-energy-consumption/"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: Data Mining Project - Rui Miao
+title: Data Mining Project
 
 # Short description of your site
 description: Data Mining Project 3
