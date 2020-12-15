@@ -14,10 +14,10 @@ url: "https://rmiaous.github.io/earthquake/"
 #baseurl: ""
 
 # Name of website
-title: Earthquakes Analysis 
+title: House Energy Consumption Analysis 
 
 # Short description of your site
-description: Data Mining Project
+description: Data Mining Project 3
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -30,9 +30,9 @@ navbar-links:
   Codes:
     - Codes: "DM_Project2_21_Rui_Miao.html"
   Diagrams:
-    - Diagrams: "output_16_0.png"
+    - Diagrams: ""
   Maps: 
-    - Maps: "map.png"
+    - Maps: ""
   About US: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
@@ -41,8 +41,8 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Rui Miao 
-  facebook: "https://rmiaous.github.io/earthquake/"
-  twitter: "https://rmiaous.github.io/earthquake/"
+  facebook: "https://rmiaous.github.io"
+  twitter: "https://rmiaous.github.io"
   email: "rmiaous@gwu.edu"
 #  linkedin: "pub/dean-attali/8/946/143"
 #  stackoverflow: "users/3943160/daattali"
