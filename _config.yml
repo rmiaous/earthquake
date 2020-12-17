@@ -30,9 +30,7 @@ navbar-links:
   Codes:
     - Codes: "DM_Project3_10_Rui_Miao.html"
   Diagrams:
-    - Diagrams: ""
-  Maps: 
-    - Maps: ""
+    - Diagrams: "Solar and Energy Consumption.png"
   About US: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
