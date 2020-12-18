@@ -7,7 +7,7 @@ bigimg: /img/path.jpg
 
 ## Here is where we can insert an image:
 
-![logo](/img/Energy Consumption and Solar Generation.png)
+!(/img/Energy Consumption and Solar Generation.png)
 
 ## How about a link?
 
