@@ -1,6 +1,6 @@
 /img/Energy Consumption and Solar Generation.png
 ![GitHub Logo](/img/Energy Consumption and Solar Generation.png)
-
+![Alt Text](url)
 ## How about a link?
 
 And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
