@@ -29,7 +29,7 @@ navbar-links:
   Home: ""
   Python Code:
     - Python Code: "DM_Project3_12_Rui_Miao.html"
-  Diagrams:
+  Visualization:
     - Diagrams: "Devices Energy Consumption.html"
   About US: "https://datasci.columbian.gwu.edu/"
 
