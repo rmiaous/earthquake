@@ -7,7 +7,7 @@ bigimg: /img/path.jpg
 
 ## Here is where we can insert an image:
 
-!(/img/Energy Consumption and Solar Generation.png)
+(/img/Energy Consumption and Solar Generation.png)
 
 ## How about a link?
 
@@ -31,8 +31,3 @@ We can do it with a line of markdown that looks like this (without the slashes -
 {% include jupyter-basic_bar.html %}
 
 
-Attempting to embed an RShiny app:
-
-<div class="iframe_container">
-  <iframe width="800" height="700" scrolling="yes" frameborder="no"  src="https://kerchner.shinyapps.io/rshiny-test/"> </iframe>
-</div>
