@@ -1,12 +1,5 @@
----
-layout: page
-title: House Energy Consumption
-subtitle: Comparision
-bigimg: /img/path.jpg
-
-## Here is where we can insert an image:
-
 /img/Energy Consumption and Solar Generation.png
+![alt text](http://url/to/img.png)
 
 ## How about a link?
 
