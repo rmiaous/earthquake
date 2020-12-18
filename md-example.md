@@ -1,4 +1,4 @@
-![Alt Text](gh-pages/img/Energy Consumption and Solar Generation.png)
+![Alt Text](gh-pages/house-energy-consumption/img/Energy Consumption and Solar Generation.png)
 ![Alt Text](https://github.com/rmiaous/house-energy-consumption/blob/gh-pages/img/Energy%20Consumption%20and%20Solar%20Generation.png)
 From the above plot, the balance between overall house energy consumption and solar power generation is 9:00 and 13:30.
 
