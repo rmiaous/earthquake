@@ -1,5 +1,5 @@
 /img/Energy Consumption and Solar Generation.png
-![GitHub Logo](/images/Energy Consumption and Solar Generation.png)
+![GitHub Logo](/img/Energy Consumption and Solar Generation.png)
 
 ## How about a link?
 
