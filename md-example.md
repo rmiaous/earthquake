@@ -1,24 +1,6 @@
 ![Alt Text](https://github.com/rmiaous/house-energy-consumption/blob/gh-pages/img/Energy%20Consumption%20and%20Solar%20Generation.png)
+From the above plot, the balance between overall house energy consumption and solar power generation is 9:00 and 13:30.
 
-## How about a link?
-
-And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
-
-## Or some code?
-
-Some code might go here:
-
-```
-x <- 5 # Here's some R code
-```
-
-What if I just paste the HTML for a plotly plot?
-
-We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
-```
-\{\% include jupyter-basic_bar.html \%\}
-
-```
 {% include jupyter-basic_bar.html %}
 
 
