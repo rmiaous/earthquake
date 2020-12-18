@@ -3,7 +3,6 @@ layout: page
 title: House Energy Consumption
 subtitle: Comparision
 bigimg: /img/path.jpg
----
 
 ## Here is where we can insert an image:
 
