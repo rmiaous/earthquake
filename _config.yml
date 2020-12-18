@@ -27,8 +27,8 @@ description: Data Mining Project 3
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Coding:
-    - Coding: "DM_Project3_10_Rui_Miao.html"
+  Python Code:
+    - Python Code: "DM_Project3_10_Rui_Miao.html"
   Diagrams:
     - Diagrams: "Devices Energy Consumption.html"
   About US: "https://datasci.columbian.gwu.edu/"
