@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
-bigimg: /img/start.jpg
+title: House Energy Consumption
+subtitle: Comparision
+bigimg: /img/path.jpg
 ---
 
 ## Here is where we can insert an image:
 
-![GW Data Science logo](/img/gwdsp.png)
+![logo](/img/Energy Consumption and Solar Generation.png)
 
 ## How about a link?
 
