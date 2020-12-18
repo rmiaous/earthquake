@@ -32,7 +32,7 @@ navbar-links:
   Visualization:
     - Charts: "Specific House Data per Month.png"
     - Diagrams: "Devices Energy Consumption.html"
-    - Comparision: "md-example.md"
+    - Comparision: "md-example"
   About US: "https://datasci.columbian.gwu.edu/"
 
 # --- Footer options --- #
