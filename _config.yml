@@ -27,7 +27,7 @@ description: Data Mining Project 3
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Dataset: "Energy-saving House.htm"
+  Dataset: "Energy-saving House.html"
   Python Code: "DM_Project3_12_Rui_Miao.html"
   Visualization:
     - Charts: "Specific House Data per Month.png"
