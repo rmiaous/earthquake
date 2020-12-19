@@ -4,7 +4,5 @@ From the above plot, the balance between overall house energy consumption and so
 ![Alt Text](Energy Consumption and Solar Generation per Month.png)
 From the above plot, overall house energy consumption was greater than solar power generation in 2016.
 
-include Energy-saving House.htm
-
 
 
